@@ -1,0 +1,6 @@
+Explicación conceptos
+
+* `for` // Se ejecuta bajo una condicional hasta que esta condición deja de cumplirse
+* `&&`, // Se cumple si cumple con 2 condiciones
+* `||`	// Se cumple si se da 1 de 2 condiciones
+* `!`	// Implica que algo no es... !1... no es 1
