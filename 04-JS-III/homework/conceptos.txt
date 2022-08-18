@@ -1,0 +1,1 @@
+Arrays... Varible en la que se puede listar varios tipos de variables (números, strings, funciones y otros Arrays)  que posteriormente pueden ser consultados
